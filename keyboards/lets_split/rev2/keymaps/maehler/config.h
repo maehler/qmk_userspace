@@ -24,3 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEFAULT_LAYER_SONGS { SONG(QWERTY_SOUND), \
                               SONG(COLEMAK_SOUND), \
                             }
+
+// Tap-hold settings
+#define TAPPING_TERM 200
+#define QUICK_TAP_TERM 120
+#define PERMISSIVE_HOLD
