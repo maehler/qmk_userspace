@@ -3,6 +3,7 @@
     "build_targets": [
         ["planck/rev6", "maehler"],
         ["idobao/id75/v1", "maehler"],
-        ["handwired/maehler", "maehler"]
+        ["handwired/maehler", "maehler"],
+        ["lets_split/rev2", "maehler"]
     ]
 }
